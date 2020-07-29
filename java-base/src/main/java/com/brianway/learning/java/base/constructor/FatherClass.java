@@ -9,6 +9,7 @@ public class FatherClass {
 
     static {
         System.out.println("父类的静态属性count初始化:" + count);
+        System.out.println("父类的静态属性count初始化:" + count);
     }
 
     public FatherClass() {
